@@ -44,8 +44,7 @@ esses comandos funcionam somente se estiver a pasta do trabalho aberta no
 terminal do Windows/Linux ou no VScode, por fim, a versão do python tem
 que está na “3.10.2”.
 
-# 1- Para gerar o par de primos basta inserir o seguinte comando no
-terminal com a pasta do arquivo do trabalho aberta:
+# 1- Para gerar o par de primos basta inserir o seguinte comando no terminal com a pasta do arquivo do trabalho aberta:
 
 python3 .\Gerador-Verificador-de-Assinaturas-RSA-Arquivos.py -geracaoparprimo
 
