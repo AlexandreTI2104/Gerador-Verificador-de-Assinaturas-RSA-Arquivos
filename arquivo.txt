@@ -1,0 +1,1 @@
+Criptografia em seguranca virtual e a conversao de dados de um formato legivel em um formato codificado.
